@@ -1,0 +1,16 @@
+{
+  "name": "CodeWars",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "jasmine": "*",
+    "karma": "*",
+    "karma-phantomjs-launcher": "*"
+  },
+  "devDependencies": {
+    "@types/jasmine": "^2.5.47",
+    "jasmine": "^2.5.3",
+    "karma-commonjs": "^1.0.0",
+    "karma-jasmine": "^1.1.0"
+  }
+}
