@@ -1,1 +1,1 @@
-# js katas from code wars
+# codewar_typescript
